@@ -13,7 +13,7 @@ presskit_download_link                    : https://stax-re.com                 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Developer Direct NNN Investment Properties.
+app_description                           : Developer Direct NNN Investment Properties
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,39 +37,39 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Private Access to Exclusive Deals
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : Our members receive exclusive access to a proprietary deal flow at above market returns. 
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Developer Direct
+    description                           : Our properties are coming directly from the developers, elimating the middlemen, and passing higher yeild returns to you.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : AI Powered Site Selection
+    description                           : Our properitary AI powered workflow enables us to analyze hundreds of opportunties. The best options are hand selecte by experts from there. 
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : True Passive Income
+    description                           : The Absolute NNN Leases on our properties have zero managment resposnbilties. Providing our investors with truely passive income streams. 
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Tax Advantages
+    description                           : Many of our properties are elible for accelerated depreciation and other tax savings programs.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Above Market Returns
+    description                           : We are able to achieve significantly higher profit margins by sourcing all of our own deals, and cutting out the bloated banks and national brokerage firms. 
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Streamlined Process
+    description                           : Our members enjoy the benefits of not only first access but our off-market streamlined investment process allows us to offer you better cap rates due to increased efficiency, reduced complexity, and faster decision-making. Investors can focus on evaluating opportunities and making informed choices.  
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : High Quaility Properties
+    description                           : We conduct extensive due dilligence on every property, and only select the investment worthy assets. 
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Perfect for 1031X
+    description                           : The long term corporate gauranteed NNN leases make great cadidates for 1031 exchange properties.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
